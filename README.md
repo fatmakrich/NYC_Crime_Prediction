@@ -34,6 +34,10 @@ The main goal is to assist law enforcement and policymakers in better understand
      - Interactive map for selecting locations in New York City.
      - Main area for exploring crime predictions based on user inputs such as age, gender, location and time of day.
      - Prediction of crime type.
-
+![NYCP](NYCP.png)
+![Map](Captures/Map.png)
+![Crime_details](Captures/Crime_details.png)
+![Prediction](Captures/Prediction.png)
+  
   
 
