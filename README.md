@@ -36,7 +36,7 @@ The main goal is to assist law enforcement and policymakers in better understand
      - Prediction of crime type.
 
      
-![NYCP](NYCP.png)
+![NYCP](NYCP.PNG)
 ![Map](Captures/Map.png)
 ![Crime_details](Captures/Crime_details.png)
 ![Prediction](Captures/Prediction.png)
