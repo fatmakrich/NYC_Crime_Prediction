@@ -45,6 +45,6 @@ The main goal is to assist law enforcement and policymakers in better understand
 6. **Scientific Contribution**:
    - The findings of this project were consolidated and presented in a scientific paper titled **"NYC Crime Prediction"**.
    - The paper highlights the methodology, results and implications of the study.
-     You can view the paper [here](./paper.pdf).
+     You can view the paper [ NYC Crime Prediction](./paper.pdf).
    - It serves as a comprehensive resource for academics, law enforcement and urban policy planners interested in crime prediction and urban safety strategies.
 
