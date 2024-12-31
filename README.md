@@ -24,8 +24,8 @@ The main goal is to assist law enforcement and policymakers in better understand
    - **Data Cleaning**: Handling missing values and outliers.
    - **Exploration**: Analysis of key variables, such as demographics, temporal trends, and geographic hotspots.
 3. **Modeling Techniques**:
-   - **Models Used**: XGBoost, LightGBM, CatBoost, Neural Networks.
-   - **Feature Engineering**: Creation of temporal, spatial, and categorical features.
+   - **Models Used**: XGBoost, LightGBM, CatBoost and Neural Networks.
+   - **Feature Engineering**: Creation of temporal, spatial and categorical features.
 4. **Results**:
    - Comparison of model performance using accuracy, precision, recall, F1-score and AUC-ROC.
 
@@ -44,6 +44,7 @@ The main goal is to assist law enforcement and policymakers in better understand
   
 6. **Scientific Contribution**:
    - The findings of this project were consolidated and presented in a scientific paper titled **"NYC Crime Prediction"**.
-   - The paper, available as `paper.pdf`, highlights the methodology, results and implications of the study.
+   - The paper highlights the methodology, results and implications of the study.
+     You can view the paper [here](./paper.pdf).
    - It serves as a comprehensive resource for academics, law enforcement and urban policy planners interested in crime prediction and urban safety strategies.
 
